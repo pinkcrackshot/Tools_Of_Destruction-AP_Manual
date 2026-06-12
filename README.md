@@ -1,4 +1,4 @@
-# Tools_Of_Destruction-AP_Manual
+# Tools Of Destruction - AP Manual
 An Archipelago Manual for Ratchet &amp; Clank (Future): Tools of Destruction.
 
 Very early in development. Not tested past Fastoon - some basic checks are in place, but softlocks beyond this point are likely. Softlocks before Fastoon are less likely, but may still be possible. Report issues to the Discord thread for ToD on the Manual Discord.
